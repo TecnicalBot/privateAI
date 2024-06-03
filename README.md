@@ -7,7 +7,7 @@ A NextJS app to work with Ollama api with langchain, with support of chatting wi
 git clone https://github.com/tecnicalbot/privateAI.git
 cd privateAI
 npm install
-npm build
+npm run build
 npm start
 ```
 
